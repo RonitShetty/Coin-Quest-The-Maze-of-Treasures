@@ -26,4 +26,4 @@ Unity
 If you have any questions or feedback, please reach out to me at ronit.shetty123456789@gmail.com.
 
 <h1>Additional Information:</h1>
-All scripts are included in the uploaded files, and the game objects were created manually within Unity for a tailored experience.
+The exe is uploaded in the files for your execution, and the game objects were created manually within Unity for a tailored experience. Scripts can be generated according to your needs using any of the online AI tools (unity uses c# specifically).
